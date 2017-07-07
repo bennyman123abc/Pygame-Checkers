@@ -1,6 +1,7 @@
-Pygame-Checkers
+Pygame-Checkers (Neural Network Demo)
 ===============
 
-GitHub repository for an individual project in Python for Programming Workshop at Marlboro College. The goal was to create a fully functional checkers engine for two players.
+Forked from @everestwitman to build a Neural Network demo to teach a computer to play checkers.
+More info will be released as this project advances
 
 User should install pygame 1.9.2 release for required libraries. 
